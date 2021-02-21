@@ -1,0 +1,14 @@
+h2{background-color: black; color:#daa520;}
+p{ text-align-center; }
+ {background-color:pink;}
+ hr{border: solid 2px;color:#daa520;}
+ /*section{margin:50px auto;width: 1025px;height: 150px;}*/
+ .rede{width: 150px;height: 150px;float: left;margin-left: 20px;transition: 0.4s easy-out;border-radius: 70px;}
+ .rede#facebook{background-color: #2372a3;}
+ .rede#twitter{background-color: #0084b4;}
+ .rede#instagram{background-color: #3f729b;}
+ .rede#snap{background-color: #fc0;}
+ .rede#plus{background-color: #dd4b36;}
+ .rede#youtube{background-color: #b00;}
+ .icone {margin: 0px auto;padding: 35px; width: 150px;}
+ .rede:hover{cursor: pointer;transform: translateY(-20px);box-shadow: 4px 30px 16px 0px rgba(50,50,50,0.45)}
